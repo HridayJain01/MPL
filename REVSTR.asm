@@ -1,6 +1,5 @@
-;PALINDROME
 Data Segment 
-String1 DB 'MONALIS'
+String1 DB 'AMAN'
 STRING DB 'PALI',13,10,'$'
 Pal DB 00H 
 Data ends 
